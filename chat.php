@@ -5,6 +5,7 @@
     header("location: login.php");
   }
 ?>
+ <!-- coding By tcotidiane33 -->
 <?php include_once "header.php"; ?>
 <body>
   <div class="wrapper">

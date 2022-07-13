@@ -1,3 +1,4 @@
+ <!-- coding By tcotidiane33 -->
 <?php
     while($row = mysqli_fetch_assoc($query)){
         $sql2 = "SELECT * FROM messages WHERE (incoming_msg_id = {$row['unique_id']}

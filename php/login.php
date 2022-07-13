@@ -1,3 +1,4 @@
+ <!-- coding By tcotidiane33 -->
 <?php 
     session_start();
     include_once "config.php";

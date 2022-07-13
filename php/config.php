@@ -1,3 +1,4 @@
+ <!-- coding By tcotidiane33 -->
 <?php
   $hostname = "localhost";
   $username = "root";

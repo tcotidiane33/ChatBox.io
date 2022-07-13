@@ -1,3 +1,4 @@
+/* <!-- coding By tcotidiane33 --> */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -79,14 +80,19 @@ body{
   font-size: 17px;
 }
 .form form .button input{
-  height: 45px;
-  border: none;
-  color: #fff;
-  font-size: 17px;
-  background: #333;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-top: 13px;
+  margin-top: 18px;
+    height: 45px;   
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 4px 0;
+    color: aqua !important;
+    font-size: 1.3rem;
+    background-color: #000 !important;
 }
 .form form .field i{
   position: absolute;
